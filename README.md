@@ -2,7 +2,7 @@
 - 👀 I’m interested in statistical learning and ML
 - 🌱 I’m currently learning cau hufs
 - 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me 
+- 📫 How to reach me you can send Email for me lee1995hao@gmail.com
 
 <!---
 lee1995hao/lee1995hao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
